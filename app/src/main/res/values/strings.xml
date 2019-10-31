@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simple Recycler</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@mipmap/img_barca</item>
+        <item>@mipmap/img_madrid</item>
+        <item>@mipmap/img_bayern</item>
+        <item>@mipmap/img_city</item>
+        <item>@mipmap/img_mu</item>
+        <item>@mipmap/img_chelsea</item>
+        <item>@mipmap/img_acm</item>
+        <item>@mipmap/img_arsenal</item>
+    </array>
+</resources>
